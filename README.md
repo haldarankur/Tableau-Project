@@ -17,3 +17,18 @@ The Bike Haven is a sales analysis and business intelligence project focused on 
 -  How do Product Categories compare in terms of Sales Amount?
 -  How do Sales Figures compare with the Previous Year?
 -  Which Months recorded the highest sales?
+
+
+-  Dashboard Interaction <a href="https://github.com/haldarankur/Tableau-Project/blob/main/dashboard.jpg">View Dashboard</a>
+
+## Process
+-  Restore the provided database in PostgreSQL using pgAdmin.
+-  Clean, preprocess, and merge the relevant tables using SQL JOINs.
+-  Export the processed tables into CSV format.
+-  Import the CSV files and budget dataset into Tableau Desktop.
+-  Create the required sales visualizations and year-over-year comparisons.
+-  Develop an interactive dashboard with customer and product filters.
+-  Format the dashboard in A4 portrait layout and export it as a PDF.
+
+
+## Dashboard
