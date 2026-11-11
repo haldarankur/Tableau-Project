@@ -37,3 +37,15 @@ The Bike Haven is a sales analysis and business intelligence project focused on 
 
 <img width="677" height="350" alt="screenshotsample2" src="https://github.com/user-attachments/assets/2c75eda1-695d-4359-ab1d-1f960a99f35d" />
 
+
+## Project Insight
+-  Mountain-200, Black, 46 emerged as the highest-selling individual product.
+-  Jordan Turner was the highest-spending customer among the top 10 customers.
+-  London recorded the highest sales among the listed cities, followed by Paris and Wollongong.
+-  Bikes generated the highest sales revenue among all product categories.
+-  Female customers contributed slightly more to overall sales than male customers.
+-  Midi-Couleurs recorded the highest sales among the listed regions in the address-level analysis.
+
+
+## Final Conclusion
+The Bike Haven sales analysis project provides a comprehensive overview of the company's sales performance through interactive visualizations and data-driven insights. By integrating multiple datasets using PostgreSQL and transforming the processed data into Tableau dashboards, the project highlights key findings across products, customers, geographical locations, and product categories. The analysis identifies the major revenue contributors and helps uncover important sales patterns, enabling a better understanding of the company's overall business performance.
