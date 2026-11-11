@@ -32,3 +32,5 @@ The Bike Haven is a sales analysis and business intelligence project focused on 
 
 
 ## Dashboard
+
+<img width="677" height="352" alt="screenshotsample1" src="https://github.com/user-attachments/assets/afb93b84-a5c6-458c-a06e-450bfb8e0006" />
